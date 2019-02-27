@@ -1,0 +1,20 @@
+{
+  "name": "Homework2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "csc-adv-int-basic-gallery": "^1.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.28.4",
+    "webpack-dev-server": "^3.1.14"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.1"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --mode development",
+    "build": "webpack --mode devlopment"
+  }
+}
