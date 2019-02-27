@@ -1,4 +1,4 @@
-# Picture Carousel#
+# Picture Carousel
 **Due Date: 2/15/2019**
 
 ## Objective ##
